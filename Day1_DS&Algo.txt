@@ -1,0 +1,6 @@
+Day 1 Assignment
+
+Answers
+1) n power 2 (n^2)
+
+2) (n/3)*(n) = (n^2) 
